@@ -1,0 +1,60 @@
+body{
+  overflow-x: hidden;
+}
+
+.slide{
+  margin-top: 51px;
+  /*border:2px solid red;*/
+  padding: 0;
+} 
+
+/*.navigation{height: 70px;padding: 10px}*/
+
+.slide3{
+  margin-top: 100px;
+  padding: 40px;
+}
+
+.slide img{
+  background-position: center;
+  width: 100%;
+  height: 500px;
+}
+
+.slide2{
+  margin-top: 20px;
+  /*border:2px solid red;*/
+  padding: 0;
+} 
+
+.margin{margin-top: 100px}
+
+.carousel-cell {
+  width: 100%;
+  counter-increment: carousel-cell;
+
+}
+
+.column{padding: 0px 25px 0px 25px;}
+
+.page-header{
+  font-style: italic;
+  color: red;
+  margin: 15px 0px 20px;
+}
+
+.center-block{text-align: center;}
+
+.login{margin-top: 50px;}
+.login2{margin-top: 50px;height: 830px}
+.login3{height: 1350px}
+
+.alert{margin-top: 40px;}
+
+.form-group{margin-bottom: 30px;}
+label{margin-top: 5px}
+.form-control{border-radius: 4px}
+.btn-info{margin-right: 10px}
+.button{height: 48px}
+.admin_name,h4{color: red;font-family: gabriola;font-size: 60px}
+/*.form{margin-bottom: 30px}*/
