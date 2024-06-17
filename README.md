@@ -63,3 +63,8 @@ Password : 1210
 
 ![16](https://github.com/pillaiganeshmohan/Library-Management-System/assets/68379838/afc226e9-583c-42b1-ba82-19fff5f09c02)
 
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the **Apache-2.0 License**. See the [LICENSE](./LICENSE) file for details.
